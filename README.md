@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](![f](https://user-images.githubusercontent.com/64626034/104425057-c609c200-55b2-11eb-8088-3886ce172225.PNG))
+![f](![f](https://user-images.githubusercontent.com/64626034/104425057-c609c200-55b2-11eb-8088-3886ce172225.PNG))
 
 Team page about describing teamwork tasks for completing a project:
 
